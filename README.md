@@ -1,4 +1,4 @@
-Assement for Kuehne+Nagel passed on following criteria by Rashad Gafarli
+Assement for Kuehne+Nagel bassed on following criteria by Rashad Gafarli
 
 Shipments CRUD page:
 
