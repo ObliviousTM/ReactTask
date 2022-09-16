@@ -10,7 +10,7 @@ function TableView() {
   useEffect(() => {
     async function fetchData() {
       const respond = await axios(
-        "https://mocki.io/v1/90bf9a0f-885a-42dd-8e25-452ff261a4dc"
+        "https://my.api.mockaroo.com/shipments.json?key=5e0b62d0"
       );
       setData(respond.data);
     }
